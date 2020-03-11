@@ -1,5 +1,4 @@
 body
-body
 {
     color:#333;
     text-align: center;
@@ -12,11 +11,18 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: 1px solid #ddd;
+    text-align: 1px solid red;
     margin: 0 auto;
 }
 
 #container h1
 {
     font-size: 20px;
+}
+#cabecera
+{
+    font-size-adjust: 20px;
+    background-color: skyblue;
+    color: tomato;
+
 }
